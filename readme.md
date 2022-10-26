@@ -4,11 +4,11 @@
 
 ##   💻🔧 Tecnologias
 
--HTML
--CSS
--JavaScript
--Git
--Git Hub
+- HTML
+- CSS
+- JavaScript
+- Git
+- Git Hub
 
 > NLW COPA 2022
 
