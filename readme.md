@@ -10,6 +10,7 @@
 -Git
 -Git Hub
 
+> NLW COPA 2022
 
 ![preview](./.github/card.png)
 
